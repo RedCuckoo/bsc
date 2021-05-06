@@ -1,4 +1,4 @@
-module github.com/ethereum/go-ethereum
+module github.com/redcuckoo/bsc
 
 go 1.15
 
